@@ -1394,10 +1394,10 @@ body {
   border-top-color: #149dcc;
 }
 .cid-rH9F8uso9j {
-  background: linear-gradient(45deg, #55b4d4, #073b4c);
+  background-image: url("../../../assets/images/2-1-480x360.jpg");
 }
 .cid-rH9Fc12nd9 {
-  background-image: url("../../../assets/images/1482312377-sob-elevation-villa1-926x710.jpg");
+  background-color: #073b4c;
 }
 .cid-rH9Fc12nd9 .form-control,
 .cid-rH9Fc12nd9 .form-control:focus {
@@ -1637,27 +1637,6 @@ body {
   .cid-rH9B35WJhu .period {
     font-size: 0.6rem;
   }
-}
-.cid-rH9BmQuUcG {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rH9BmQuUcG .title {
-  margin-bottom: 2rem;
-}
-.cid-rH9BmQuUcG .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rH9BmQuUcG a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rH9BmQuUcG a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rH9BmQuUcG textarea.form-control {
-  min-height: 188px;
 }
 .cid-rH9BwoOrKx {
   padding-top: 90px;
